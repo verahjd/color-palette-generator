@@ -17,8 +17,7 @@ A web application that generates random color palettes and allows users to copy 
 
 ## 🛠️ What I Learned
 
-- Implementing **DOM manipulation** to dynamically update content.
-- Using the **Clipboard API** for copy-to-clipboard functionality.
-- Applying **event handling** and delegation for interactive UI elements.
-- Creating a **random HEX color generator** in JavaScript.
-- Designing with **CSS gradients, hover states, and responsive layouts**.
+- Implementing DOM manipulation to dynamically update content.
+- Applying event handling and delegation for interactive UI elements.
+- Creating a random HEX color generator in JavaScript.
+- Designing with CSS gradients, hover states, and responsive layouts.
