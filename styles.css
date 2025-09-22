@@ -9,7 +9,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, pink 0%, #c3cfe2 100%);
+  background: linear-gradient(135deg, #191919 20%, black 100%);
   min-height: 100vh;
   display: flex;
   align-items: center;
@@ -42,12 +42,12 @@ h1::after {
   transform: translateX(-50%);
   width: 50%;
   height: 3px;
-  background: linear-gradient(90deg, pink, purple);
+  background: linear-gradient(90deg, #667eea, #764ba2);
   border-radius: 2px;
 }
 
 #generate-btn {
-  background: linear-gradient(45deg, pink, #764ba2);
+  background: linear-gradient(45deg, #667eea, #764ba2);
   color: white;
   border: none;
   padding: 0.8rem 1.5rem;
